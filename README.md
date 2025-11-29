@@ -133,5 +133,3 @@ If you find this project helpful, please ⭐ it on [GitHub](https://github.com/A
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-> Built with ❤️ by [Aqib Niazi](https://github.com/AqibNiazi)
